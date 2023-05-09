@@ -9,4 +9,4 @@ LED BULB
 ```
 LED BULB USING SWITCH
 ```
-![LED](
+![LED](https://github.com/Lukosevv/10-day-internship/blob/main/img/pic2.png)
