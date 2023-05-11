@@ -95,7 +95,15 @@ void loop()
   delay(100); // Wait for 1000 millisecond(s)
 }
 ```
-dancing led link
+# Dancing led link
 ```
+LED
+````
 [dancing led](https://www.tinkercad.com/things/6lRsizRXOPr-smooth-jaban/editel?tenant=circuits)
+```
+# ARDUINO
+
+```
+![arduino led photo](https://github.com/Lukosevv/10-day-internship/blob/main/img/pic4.png)
+
 ```
