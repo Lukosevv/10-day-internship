@@ -40,3 +40,25 @@ AND GATE 7408
 [thinkering this](https://www.tinkercad.com/things/9Mwp2iplnK5-frantic-amberis-kieran/editel)
 
 [tinkering this](https://www.tinkercad.com/things/b3Cm6gTowZd-terrific-lahdi/editel)
+# EXPERIMENT NO : 4 #
+```
+ADINO USING LED BULB BULING
+```
+> PROGRAM
+```
+// C++ code
+//
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+...
+[thinkering this](https://www.tinkercad.com/things/hjSncmzgYfE-magnificent-albar/editel)
