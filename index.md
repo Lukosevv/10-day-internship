@@ -68,3 +68,29 @@ void loop()
 # Arduino circuit #
 ```
 ![arduino led  buling](https://github.com/Lukosevv/10-day-internship/blob/main/img/pic3.png)
+# EXPERIMENT NO :5 #
+```
+DANCING LED
+```
+> PROGRAM
+// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+  pinMode(12, OUTPUT);
+}
+
+
+void loop()
+{
+  digitalWrite(13, HIGH);
+  delay(100); // Wait for 1000 millisecond(s)
+  digitalWrite(13, LOW);
+  delay(100); // Wait for 1000 millisecond(s)
+  digitalWrite(12, HIGH);
+  delay(100); // Wait for 1000 millisecond(s)
+  digitalWrite(12, LOW);
+  delay(100); // Wait for 1000 millisecond(s)
+}
+[dancing led](https://www.tinkercad.com/things/6lRsizRXOPr-smooth-jaban/editel?tenant=circuits)
