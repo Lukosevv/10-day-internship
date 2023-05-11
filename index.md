@@ -42,7 +42,7 @@ AND GATE 7408
 [tinkering this](https://www.tinkercad.com/things/b3Cm6gTowZd-terrific-lahdi/editel)
 # EXPERIMENT NO : 4 #
 ```
-ADINO USING LED BULB BULING
+ARDUINO USING LED  BULING
 ```
 > PROGRAM
 ```
@@ -60,5 +60,11 @@ void loop()
   digitalWrite(LED_BUILTIN, LOW);
   delay(1000); // Wait for 1000 millisecond(s)
 }
+```
+>ardunio led buling link 
 ...
 [thinkering this](https://www.tinkercad.com/things/hjSncmzgYfE-magnificent-albar/editel)
+```
+# Arduino circuit #
+```
+![arduino led  buling](https://github.com/Lukosevv/10-day-internship/blob/main/img/pic3.png)
