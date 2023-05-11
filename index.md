@@ -32,4 +32,10 @@ LED BULB
 LED BULB USING SWITCH
 ```
 ![LED](https://github.com/Lukosevv/10-day-internship/blob/main/img/pic2.png)
+## DAY 3 INTERNSHIP ##
+# EXPERIMENT NO :3 #
+```
+AND GATE 7408
+```
 [thinkering this](https://www.tinkercad.com/things/9Mwp2iplnK5-frantic-amberis-kieran/editel)
+[tinkering this](https://www.tinkercad.com/things/b3Cm6gTowZd-terrific-lahdi/editel)
