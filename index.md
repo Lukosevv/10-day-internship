@@ -145,6 +145,7 @@ void loop()
   delay(100); // Wait for 1000 millisecond(s)
 }
 ```
+[thinker this](https://www.tinkercad.com/things/2tUuRtiEtfN-copy-of-7-segament-display-using-arduino-board/editel?tenant=circuits)
 
 
 
