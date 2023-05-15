@@ -106,9 +106,9 @@ LED
 ```
 ![arduino led photo](https://github.com/Lukosevv/10-day-internship/blob/main/img/pic4.png)
 
-```
 # EXPERIMENT NO : 6 #
- CHAER LED
+> CHAER LED
+
 ```
 // C++ code
 //
@@ -145,7 +145,13 @@ void loop()
   delay(100); // Wait for 1000 millisecond(s)
 }
 ```
+# EXPERIMENT NO :7 #
+# 7segement #
+
 [thinker this](https://www.tinkercad.com/things/2tUuRtiEtfN-copy-of-7-segament-display-using-arduino-board/editel?tenant=circuits)
+```
+> program
+```
 ```
 // C++ code
 //
@@ -239,6 +245,22 @@ void loop()
   delay(1000);
   
   delay(1000); // Wait for 1000 millisecond(s)
+}
+```
+# EXPERIMENT NO :8  #
+[thinker this](https://www.tinkercad.com/things/fnTwQMsY0ij-mighty-krunk-lappi/editel?tenant=circuits)
+> program
+ ```
+const int potpin =A0;
+  
+void setup()  {
+  Serial.begin(9600);
+}
+
+void loop(){
+  int potValue = analogRead(potpin);
+  Serial.println(potValue);
+  delay(100);
 }
 ```
 
