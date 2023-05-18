@@ -282,6 +282,133 @@ void loop(){
   delay(100);
 }
 ```
+# EXPERIMENT NO:9 #
+[Thinker this](https://www.tinkercad.com/things/hzKBBUJDImX-powerful-inari/editel)
+> program
+```
+// C++ code
+//
+const int potpin =A0;
+  
+void setup()            
+{
+ Serial.begin(9600);
+
+  pinMode(6,OUTPUT); //G
+  pinMode(7,OUTPUT);//F
+  pinMode(8,OUTPUT);//A
+  pinMode(9,OUTPUT);//B
+  pinMode(10,OUTPUT);//DP
+  pinMode(11,OUTPUT);//C
+  pinMode(12,OUTPUT);//D
+  pinMode(13,OUTPUT);//E
+  
+
+}
+
+void loop()
+{
+  int potValue = analogRead(potpin);
+  Serial.println(potValue);
+  delay(100);
+  digitalWrite(7, HIGH);
+  digitalWrite(8, HIGH);
+  digitalWrite(9, HIGH);
+  digitalWrite(10, HIGH);
+  digitalWrite(11, HIGH);
+  digitalWrite(12, HIGH);
+  digitalWrite(6,LOW);
+  digitalWrite(13,HIGH);
+  delay(potValue);
+  digitalWrite(7, LOW);
+  digitalWrite(8, LOW);
+  digitalWrite(9, HIGH);
+  digitalWrite(10, LOW);
+  digitalWrite(11, HIGH);
+  digitalWrite(12, LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(13,LOW);
+  delay(potValue);
+  digitalWrite(7,LOW);
+  digitalWrite(8, HIGH);
+  digitalWrite(9, HIGH);
+  digitalWrite(10, HIGH);
+  digitalWrite(11, LOW);
+  digitalWrite(12, HIGH);
+  digitalWrite(6,HIGH);
+  digitalWrite(13,HIGH);
+  delay(potValue);
+  digitalWrite(7, LOW);
+  digitalWrite(8, HIGH);
+  digitalWrite(9, HIGH);
+  digitalWrite(10, HIGH);
+  digitalWrite(11, HIGH);
+  digitalWrite(12, HIGH);
+  digitalWrite(6,HIGH);
+  digitalWrite(13,LOW);
+  delay(potValue);
+  digitalWrite(7, HIGH);
+  digitalWrite(8, LOW);
+  digitalWrite(9, HIGH);
+  digitalWrite(10, HIGH);
+  digitalWrite(11, HIGH);
+  digitalWrite(12, LOW);
+  digitalWrite(6,HIGH);
+  digitalWrite(13,LOW);
+  delay(potValue);
+  digitalWrite(7, HIGH);
+  digitalWrite(8, HIGH);
+  digitalWrite(9, LOW);
+  digitalWrite(10, HIGH);
+  digitalWrite(11, HIGH);
+  digitalWrite(12, HIGH);
+  digitalWrite(6,HIGH);
+  digitalWrite(13,LOW);
+  delay(potValue); 
+  digitalWrite(7, HIGH);
+  digitalWrite(8, HIGH);
+  digitalWrite(9, LOW);
+  digitalWrite(10, HIGH);
+  digitalWrite(11, HIGH);
+  digitalWrite(12, HIGH);
+  digitalWrite(6,HIGH);
+  digitalWrite(13,HIGH);
+  delay(potValue);
+  digitalWrite(7, LOW);
+  digitalWrite(8, HIGH);
+  digitalWrite(9, HIGH);
+  digitalWrite(10, LOW);
+  digitalWrite(11, HIGH);
+  digitalWrite(12, LOW);
+  digitalWrite(6,LOW);
+  digitalWrite(13,LOW);
+  delay(potValue);
+  digitalWrite(7, HIGH);
+  digitalWrite(8, HIGH);
+  digitalWrite(9, HIGH);
+  digitalWrite(10, HIGH);
+  digitalWrite(11, HIGH);
+  digitalWrite(12, HIGH);
+  digitalWrite(6,HIGH);
+  digitalWrite(13,HIGH);
+  delay(potValue);
+  digitalWrite(7, HIGH);
+  digitalWrite(8, HIGH);
+  digitalWrite(9, HIGH);
+  digitalWrite(10, HIGH);
+  digitalWrite(11, HIGH);
+  digitalWrite(12, LOW);
+  digitalWrite(6,HIGH);
+  digitalWrite(13,LOW);
+  delay(potValue);
+}
+```
+    
+ 
+
+      
+    
+      
 
 
 
