@@ -296,10 +296,6 @@ machine learning
 - lab visiting
 - electrical lab
 - electronic lab
-- robotic introduction
-- types of robot
-- working of robot
-- controling of robot
 # EXPERIMENT NO :8  #
 [thinker this](https://www.tinkercad.com/things/fnTwQMsY0ij-mighty-krunk-lappi/editel?tenant=circuits)
 > program
