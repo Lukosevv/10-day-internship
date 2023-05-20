@@ -279,8 +279,17 @@ void loop()
 1. The board is programmeble
 2. Can program th board by nucleo software
 3. It can build a sound detecting device by using microphone sensor 
+# Day-5
+> Introducing drones by NAVANEETH 3rd year student of robotics
+1. Introducing Drones
+2. explained about drones parts
+3. also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
+4. To config the drones with software named as mission planner  ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%202023-05-16%20at%2009-28-33%20mission%20planner%20-%20Google%20Search.png)
+> Analog reader potentiometer
+5. [tinker the circuit](https://www.tinkercad.com/things/dFZMDWtXe0k-pot-with-arduino/editel)
+![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-15%2014-28-50.png)
+2. related program shown in below
 # EXPERIMENT NO :8  #
-[thinker this](https://www.tinkercad.com/things/fnTwQMsY0ij-mighty-krunk-lappi/editel?tenant=circuits)
 > program
  ```
 const int potpin =A0;
