@@ -266,7 +266,6 @@ void loop()
 }
       
 ```
-# DAY 4 #
 # Day-4
 > introduction to AI & ML
 1. Introduced a programming platform named as [Blockly](https://developers.google.com/blockly) ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-12%2010-34-11.png)
@@ -304,6 +303,21 @@ void loop(){
   delay(100);
 }
 ```
+# Day-6
+ > Basics of 3D printing conducted by 3rd year student robotics
+1. first introduced of the 3d printing
+2. creating  models by the tinkercad 3D modeling
+3. start with basic shapes
+4. also cover the previous design's
+5. created a base and top cover for the flower bottel by using [Tinkercad](https://www.tinkercad.com/)
+6. then introduced the 3D printer 
+7. also printed a design (duration 19 min)
+# Day-7
+> Introduced the yaskawa arm robot
+1. The introduction of yaskawa AR1440 
+![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/hhh.jpeg)
+> Then introduced about the EV (electric vehicle)
+# Day-8
 # EXPERIMENT NO:9 #
 [Thinker this](https://www.tinkercad.com/things/hzKBBUJDImX-powerful-inari/editel)
 > program
