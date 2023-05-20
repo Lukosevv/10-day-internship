@@ -266,7 +266,19 @@ void loop()
 }
       
 ```
-
+# DAY 4 #
+# Day-4
+> introduction to AI & ML
+1. Introduced a programming platform named as [Blockly](https://developers.google.com/blockly) ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-12%2010-34-11.png)
+2. The platform like Blockly are mostly used by  fresher's in programming
+3. It's like a game 
+4. The blockly helps to know about the programming easly
+5. To create a multifunction program like a calculator ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-12%2012-21-17.png)
+**AI & ML** 
+> STM 32 NUCLEO DEVELOPMENT BOARD
+1. The board is programmeble
+2. Can program th board by nucleo software
+3. It can build a sound detecting device by using microphone sensor 
 # EXPERIMENT NO :8  #
 [thinker this](https://www.tinkercad.com/things/fnTwQMsY0ij-mighty-krunk-lappi/editel?tenant=circuits)
 > program
