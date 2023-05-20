@@ -27,4 +27,4 @@ void loop(){
 
 ```
 [thinker this](https://www.tinkercad.com/things/8vsDi66ubCn-smooth-rottis/editel)
-![photo](
+![photo](https://github.com/Lukosevv/10-day-internship/blob/main/uuuu.png)
