@@ -318,6 +318,10 @@ void loop(){
 ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/hhh.jpeg)
 > Then introduced about the EV (electric vehicle)
 # Day-8
+> Arduino with analog
+1. Programming the arduino for the 7 segment display with pot  
+2. adjusting the speed of the display by varing the pot       ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-18%2010-51-29.png)
+
 # EXPERIMENT NO:9 #
 [Thinker this](https://www.tinkercad.com/things/hzKBBUJDImX-powerful-inari/editel)
 > program
